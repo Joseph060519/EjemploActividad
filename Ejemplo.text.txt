@@ -1,0 +1,4 @@
+Nombre; Angel Joseph 
+Edad; 20 años
+Altura; 1.74
+Ciudad; Tijuana 
