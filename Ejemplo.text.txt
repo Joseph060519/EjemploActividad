@@ -2,3 +2,5 @@ Nombre; Angel Joseph
 Edad; 20 años
 Hobbies; Motos
 Vehículo; Yamaha
+
+Contexto; Me gusta mucho las motos
